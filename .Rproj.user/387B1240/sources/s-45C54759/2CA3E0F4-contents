@@ -1,0 +1,14 @@
+name: "proyectos_alumnos_DBD"
+navbar:
+  title: "Repositorio de Proyectos"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "2019"
+      href: a_2019.html
+    - text: "2018"
+      href: a_2018.html
+    - text: "2017"
+      href: a_2017.html
+    - text: "Acerca del Diplomado"
+      href: about.html

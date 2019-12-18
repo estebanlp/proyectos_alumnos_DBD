@@ -1,0 +1,12 @@
+---
+output: html_document
+---
+</b></br>
+</b></br>
+
+### Diplomado en Big Data para Políticas Públicas (DBDPP)
+</b></br>
+
+El DBDPP nace el 2017 como,.....
+
+En el 2020, este diplomado se comienza a ofrecer en la Región de Valparaíso en el campus Viña del Mar de la UAI como forma de contribuir a la generación de valor público en las regiones. Se espera que este diplomado sea un soporte de formación de masa critica local para la generación de información y evidencia para hacer políticas públicas desde lo local, así como también contribuir a generar las capacidades necesarias de las regiones en sus procesos de descentralización. En Viña del Mar, este diplomado se ofrece en colaboración con el Centro de Economía y Política Regional (CEPR) de la Escuela de Negocios de la Universidad Adolfo Ibáñez.
