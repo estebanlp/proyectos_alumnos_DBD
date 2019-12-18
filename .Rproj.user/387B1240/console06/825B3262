@@ -1,0 +1,9 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Dropbox/Documents/005 Teaching/008 Diplomados/01 BDPP - Viña/Difusión/Web/proyectos_alumnos_DBD[?1034hestebans-mbp:proyectos_alumnos_DBD estebanlopezochoa$ [Kestebans-mbp:proyectos_alumnos_DBD estebanlopezochoa$ blogdown::hugo_version().
+bash: syntax error near unexpected token `.'
+]0;~/Dropbox/Documents/005 Teaching/008 Diplomados/01 BDPP - Viña/Difusión/Web/proyectos_alumnos_DBDestebans-mbp:proyectos_alumnos_DBD estebanlopezochoa$ blogdown::hugo_version().[K
+> 
+]0;~/Dropbox/Documents/005 Teaching/008 Diplomados/01 BDPP - Viña/Difusión/Web/proyectos_alumnos_DBDestebans-mbp:proyectos_alumnos_DBD estebanlopezochoa$ 
